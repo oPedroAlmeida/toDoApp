@@ -1,0 +1,27 @@
+{
+  "name": "toDoApp",
+  "version": "1.0.0",
+  "description": "This to do App was developed on node, express, react and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oPedroAlmeida/toDoApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oPedroAlmeida/toDoApp/issues"
+  },
+  "homepage": "https://github.com/oPedroAlmeida/toDoApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.13",
+    "validator": "^13.5.2"
+  }
+}
